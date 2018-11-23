@@ -1,0 +1,52 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "allowSyntheticDefaultImports": true,
+        "baseUrl": "./",
+        "target": "es6",
+        "paths": {
+            "~/*": [
+                "src/*"
+            ],
+            "src/*": [
+                "src/*"
+            ],
+            "screens/*": [
+                "src/screens/*"
+            ],
+            "actions/*": [
+                "src/actions/*"
+            ],
+            "apis/*": [
+                "src/apis/*"
+            ],
+            "components/*": [
+                "src/components/*"
+            ],
+            "constants/*": [
+                "src/constants/*"
+            ],
+            "containers/*": [
+                "src/containers/*"
+            ],
+            "reducers/*": [
+                "src/reducers/*"
+            ],
+            "images/*": [
+                "src/res/images/*"
+            ],
+            "sagas/*": [
+                "src/sagas/*"
+            ],
+            "selectors/*": [
+                "src/selectors/*"
+            ],
+            "store/*": [
+                "src/store/*"
+            ],
+            "MyFlatList": [
+                "src/components/MyFlatList/index"
+            ],
+        }
+    }
+}

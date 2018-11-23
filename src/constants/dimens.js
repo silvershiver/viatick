@@ -1,0 +1,19 @@
+import { Dimensions } from 'react-native';
+
+module.exports = {
+    LOGIN_PADDING: 65,
+    LOGIN_CONTENT_WIDTH: '70%',
+    MENU_WIDTH: 255,
+    CONTENT_HOME_PADDING: 7,
+    CONTENT_HOME_CATEGORY_PADDING: 13,
+    CONTENT_HOME_PRODUCT_PADDING: 8,
+    BORDER_RADIUS: 10,
+    SUB_TAB_HEIGHT: 38,
+    SUB_TAB_BORDER_WIDTH: 0.5,
+    CONTENT_SCREEN_PADDING_TOP: 7,
+    CONTENT_SCREEN_PADDING_LEFT_RIGHT: 10,
+    RATIO: Dimensions.get('window').width / 375,
+    MAIN_TAB_SIZE: 50,
+    BUTTON_HEIGHT: 60,
+    TEXT_HEIGHT: 43,
+};

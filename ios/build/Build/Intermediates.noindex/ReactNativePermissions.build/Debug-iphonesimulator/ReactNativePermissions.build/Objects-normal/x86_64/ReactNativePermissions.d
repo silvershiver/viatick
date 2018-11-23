@@ -1,0 +1,34 @@
+dependencies: \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/ReactNativePermissions.m \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/ReactNativePermissions.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/Projects/Viatick1/viatick/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPLocation.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/RCTConvert+RNPStatus.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPBluetooth.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPNotification.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPAudioVideo.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPEvent.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPPhoto.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPContacts.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPBackgroundRefresh.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPSpeechRecognition.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPMediaLibrary.h \
+  /Volumes/Projects/Viatick1/viatick/node_modules/react-native-permissions/ios/Permissions/RNPMotion.h
